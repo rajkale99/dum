@@ -1,0 +1,350 @@
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 694575104 bytes (663 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/system.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/system.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 12290
+Physical Size = 278528
+Tail Size = 694284286
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 402415616 bytes (384 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/vendor.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/vendor.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 4098
+Physical Size = 33232
+Tail Size = 402378286
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1394008064 bytes (1330 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/odm.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/odm.img
+Type = xz
+ERRORS:
+Headers Error
+WARNINGS:
+There are data after the end of archive
+Offset = 7233
+Physical Size = 24
+Tail Size = 1394000807
+Streams = 1
+Blocks = 0
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 12816384 bytes (13 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/product.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/product.img
+Type = Ext
+WARNINGS:
+There are data after the end of archive
+Physical Size = 12529664
+Tail Size = 286720
+Cluster Size = 4096
+Free Space = 40960
+Modified = 2023-04-12 08:07:46
+Created = 2023-04-12 08:07:46
+Last Check Time = 2023-04-12 08:07:46
+Host OS = Linux
+Revision = 1
+inode Size = 256
+Code Page = UTF-8
+Label = product
+Last Mounted = /product
+ID = 4228EA89D56446ADADADF78E4D66B629
+Characteristics = EXT_ATTR DIR_INDEX
+Incompatible Features = FILETYPE EXTENTS
+Readonly-compatible Features = SPARSE_SUPER LARGE_FILE HUGE_FILE GDT_CSUM DIR_NLINK EXTRA_ISIZE 0x4000
+Written KiB = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+
+Warnings: 1
+Folders: 64
+Files: 207
+Size:       11817925
+Compressed: 12816384
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 100663296 bytes (96 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/boot.img
+
+Can't open as archive: 1
+Files: 0
+Size:       0
+Compressed: 0
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 134217728 bytes (128 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/recovery.img
+
+Can't open as archive: 1
+Files: 0
+Size:       0
+Compressed: 0
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 3194880 bytes (3120 KiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/tz.img
+
+Can't open as archive: 1
+Files: 0
+Size:       0
+Compressed: 0
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1034747904 bytes (987 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/system_ext.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/system_ext.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 4098
+Physical Size = 114651136
+Tail Size = 920092670
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 1205129216 bytes (1150 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_stock.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_stock.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 8194
+Physical Size = 396
+Tail Size = 1205120626
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 405712896 bytes (387 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_product.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_product.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 1558906
+Physical Size = 3386
+Tail Size = 404150604
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 335872 bytes (328 KiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_engineering.img
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_engineering.img
+Type = gzip
+ERRORS:
+There are data after the end of archive
+Offset = 2096
+Physical Size = 75
+Tail Size = 333701
+Headers Size = 10
+Streams = 1
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
+
+7-Zip [64] 16.02 : Copyright (c) 1999-2016 Igor Pavlov : 2016-05-21
+p7zip Version 16.02 (locale=C,Utf16=off,HugeFiles=on,64 bits,2 CPUs Intel(R) Xeon(R) CPU E5-2673 v4 @ 2.30GHz (406F1),ASM,AES-NI)
+
+Scanning the drive for archives:
+1 file, 860065792 bytes (821 MiB)
+
+Extracting archive: /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_heytap.img
+
+WARNINGS:
+There are data after the end of archive
+
+--
+Path = /home/runner/work/testing/testing/extract_workspace/atools/dumps/ota/my_heytap.img
+Type = zip
+ERRORS:
+Headers Error
+Unconfirmed start of archive
+WARNINGS:
+There are data after the end of archive
+Offset = 8194
+Physical Size = 96
+Tail Size = 860057502
+
+
+Sub items Errors: 1
+
+Archives with Errors: 1
+
+Warnings: 1
+
+Open Errors: 1
+
+Sub items Errors: 1
