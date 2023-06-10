@@ -1,0 +1,3 @@
+require version-baseband=2.5.1.c3-00007-SDX55_RMTEFSMAG_PACK-1.6344.26
+require version-modem=2023-04-0618:39:01
+require version-trustzone=TZ.XF.5.8-00274
